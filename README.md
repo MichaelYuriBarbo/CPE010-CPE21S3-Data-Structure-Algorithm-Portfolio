@@ -5,6 +5,6 @@ Portfolio of my Data Structures and Algorithms coursework (CPE010 / CPE21S3), in
 
 | Folder | Description |
 |---|---|
-| [Prelim](Prelim) | Preliminary hands-on activities |
-| [Midterm](Midterm) | Midterm hands-on activities |
-| [Finals](Finals) | Finals hands-on activities |
+| [Prelim](Prelim) | Prelim hands-on activities and seatworks |
+| [Midterm](Midterm) | Midterm hands-on activities and seatworks  |
+| [Finals](Finals) | Finals hands-on activities and seatworks  |
