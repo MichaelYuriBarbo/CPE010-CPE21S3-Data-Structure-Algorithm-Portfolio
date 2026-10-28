@@ -1,1 +1,1 @@
-# Midterm Hands-On Activities
+# Midterm Hands-On Activities and Seatworks
