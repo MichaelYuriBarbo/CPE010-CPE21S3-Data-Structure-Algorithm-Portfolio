@@ -1,1 +1,1 @@
-# Finals Hands-On Activities
+# Finals Hands-On Activities and Seatworks
